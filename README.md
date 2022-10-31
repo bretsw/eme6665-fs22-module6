@@ -1,2 +1,5 @@
-# eme6665-fs22-module6
-  Slide deck for EME6665, Module 6: Elements of Style (for Academic Writing) (Fall 2022) 
+# EME6665 Module 6: Elements of Style (for Academic Writing) 
+
+Slide deck for **EME6665, Module 6: Elements of Style (for Academic Writing) ** (Fall 2022)
+
+![](img/6-style.jpg)
